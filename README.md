@@ -10,3 +10,4 @@ Except for models themselves, we also combine rules to improve the performance o
 
 Lastly, we apply the model to Chinese text and develop an automatic spider for crawling news from Chinese famous news platform everyday.
 
+PS. ROC figures only show the former 10000 results since the whole data sets are too large to show.
